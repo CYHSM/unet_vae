@@ -1,2 +1,3 @@
-# unet_vae
-Model architecture for the paper: https://arxiv.org/abs/1910.02058
+# Code availability
+
+Code will be available here after BRATS 2019 testing phase is over and test results are in. 
